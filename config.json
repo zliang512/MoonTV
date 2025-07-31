@@ -81,8 +81,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-
-    // 以下是新增 4K 多仓资源解析结果（部分示例）
     "monster_4k": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "Monster仓（量子资源站）4K"
