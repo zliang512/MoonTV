@@ -3,13 +3,11 @@
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+      "name": "电影天堂资源"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+      "name": "黑木耳"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -25,8 +23,7 @@
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
+      "name": "非凡影视"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
@@ -42,8 +39,7 @@
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "detail": "https://jszyapi.com"
+      "name": "极速资源"
     },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
@@ -84,6 +80,24 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+
+    // 以下是新增 4K 多仓资源解析结果（部分示例）
+    "monster_4k": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "Monster仓（量子资源站）4K"
+    },
+    "moyu_4k": {
+      "api": "https://ffzyapi.com/api.php/provide/vod",
+      "name": "摸鱼儿（非凡）4K"
+    },
+    "wangerxiao_4k": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "王二小（豆瓣）4K"
+    },
+    "ouge_4k": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "讴歌 4K资源"
     }
   }
 }
